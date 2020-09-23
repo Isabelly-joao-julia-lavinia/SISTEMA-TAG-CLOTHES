@@ -8,7 +8,7 @@ Trabalho - Etapa 1
 
 DATA DE ENTREGA: 24/09/2020 VALOR: 5 pontos
 
-GRUPO:  Isabelly  Araújo  Temomteo,  João  Pedro  Martins  Cruz,  Júlia  Dos  Santos  Silva e   Lavínia  Rievert  Ramos.
+GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  Santos  Silva e  Lavínia  Rievert Ramos
 
 ##  INTRODUÇÃO DO SISTEMA DE TAG DE ROUPAS:
 <STATUS DO PROJETO: ETAPA 1>
